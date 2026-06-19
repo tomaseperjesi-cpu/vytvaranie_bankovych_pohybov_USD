@@ -112,7 +112,7 @@ with st.expander("ℹ️ Logika spracovania / poznámky"):
     2. **Výdaj** - suma = `abs(Amazon fees)`, predkontácia `Uhr.OZ-USD`,
        text "POPLATOK ZA TRANSAKCIU".
     3. **Výdaj** - suma = `Total (USD)`, predkontácia `Amaz.OZ-USD`,
-       text "NETTO čIASTKKA FKSTURY" (ponechané presne podľa vzoru).
+       text "NETTO CIASTKA FAKTURY" (ponechané presne podľa vzoru).
 - Kurz = stĺpec `Kurz`. Suma v EUR (homeCurrency) = suma v USD / kurz, zaokrúhlené na 2 desatinné miesta.
 - Dátum pohybu (`dateStatement`, `datePayment`) = stĺpec `Datum`.
 - `bnk:symVar` / `bnk:symPar` (v bankovom pohybe) sa odvodí zo stĺpca `VS` odstránením prvej číslice
