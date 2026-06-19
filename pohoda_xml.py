@@ -38,7 +38,7 @@ ACCOUNTING_FEE = "Uhr.OZ-USD"         # predkontácia pre 2. pohyb (poplatok)
 ACCOUNTING_NET = "Amaz.OZ-USD"        # predkontácia pre 3. pohyb (netto)
 
 TEXT_FEE = "POPLATOK ZA TRANSAKCIU"
-TEXT_NET = "NETTO čIASTKKA FKSTURY"   # ponechané presne podľa vzorového súboru
+TEXT_NET = "NETTO CIASTKA FAKTURY"   # ponechané presne podľa vzorového súboru
 
 APPLICATION = "import"
 NOTE = "import platieb"
